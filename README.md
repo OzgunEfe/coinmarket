@@ -15,4 +15,4 @@ Welcome to Coin Market! Here, you can explore the top 100 cryptocurrencies and c
 ![Desktop2](./public/ss2.png)
 
 
-Thanks for [Piyush Agarwal](https://github.com/piyush-eon)
+Thanks for © [Piyush Agarwal](https://github.com/piyush-eon)
